@@ -24,7 +24,7 @@ function CategoryList(props) {
         <Table sx={{ minWidth: 650 }} aria-label="simple table">
           <TableHead>
             <TableRow>
-              <TableCell style={{ fontWeight: "bold" }}>Id</TableCell>
+              <TableCell style={{ fontWeight: "bold" }}>Código</TableCell>
               <TableCell style={{ fontWeight: "bold" }}>Nome</TableCell>
             </TableRow>
           </TableHead>
